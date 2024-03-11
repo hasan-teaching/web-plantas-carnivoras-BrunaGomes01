@@ -1,17 +1,3 @@
-body {
-    background-image: url("../imagens/fundo.png");
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-    background-position: left bottom;
-    margin: 30px;
-}
-
-.title{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 28px;
-    color: limegreen;
-}
-
 .subtitle{
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;

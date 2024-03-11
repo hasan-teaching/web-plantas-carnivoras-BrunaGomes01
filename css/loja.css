@@ -1,0 +1,19 @@
+html, body {
+    min-height: 100%;
+}
+
+table {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+  
+th, td {
+    border: 2px solid silver;
+    padding: 3px 2px;   
+}
+
+span {
+    display: block;
+}
